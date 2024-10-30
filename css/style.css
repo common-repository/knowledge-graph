@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#Know_list_plugin {
+	float:left;
+	width:250px;
+	height:400px;
+	background-color:#FFF;
+	border:dashed 1px #CCCCCC;
+	padding:10px;
+	text-align:justify;
+	z-index:20;
+	margin-right:50px;
+	margin-top:50px;
+	line-height:25px;
+}
+/* #cadre_blanc_kg { 
+	position:relative;
+	background-color:#FFF;
+	padding:8px;
+	border:dashed 1px #CCCCCC;
+	margin-top:0px; 
+	width:700px;
+	margin-top:10px;
+	margin-left:7px;
+} */
+.tools_page_knowledgegraph .wrap {
+  float: left;
+  width: 144px;
+}
+.tools_page_knowledgegraph .nav-tab {
+  background: Green none repeat scroll 0 0;
+  color: #fff;
+  width: 100%;
+}
+.tools_page_knowledgegraph .nav-tab.nav-tab-active {
+  background: black none repeat scroll 0 0 !important;
+}
+#cadre_blanc_knowledgegraph {
+  background: rgba(0, 0, 0, 0) url("../images/back_knowledge.jpg") repeat scroll 0 0;
+  width: 98%;
+}
+#cadre_blanc_knowledgegraph table {
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  margin: 37px 0 0 0!important;
+}
+#cadre_blanc_knowledgegraph h2 {
+  color: #000;
+  font-size: 22px;
+  margin: 0;
+  padding: 8px 7px;
+  background: #fff;
+}
+.tools_page_knowledgegraph #wpbody-content h1 {
+  color: green;
+  text-transform: uppercase;
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-size: 41px;
+}
+.tools_page_knowledgegraph #wpbody-content > h2 {
+  font-style: italic;
+  text-align: center;
+} 
